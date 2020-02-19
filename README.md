@@ -4,7 +4,7 @@ bash script for [synology gitea](https://github.com/jboxberger/synology-gitea-jb
 It is also available in the syology task scheduler.
 
 # How to use?
-See [Wiki](url) for each script description.
+See [Wiki](../../wiki) for each script description.
 
 # Scripts
 | Name | Description |
